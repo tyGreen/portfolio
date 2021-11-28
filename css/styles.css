@@ -102,6 +102,11 @@ ul#listPortfolioContent {
   padding-left: 10rem;
 }
 
+#divGoals li {
+  font-size: 16pt;
+  padding: 0.25rem;
+}
+
 #goalsLong, #goalsMid, #goalsShort {
   padding: 1rem;
 }
