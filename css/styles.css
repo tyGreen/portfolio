@@ -143,6 +143,11 @@ div.skills {
   padding: 1rem;
 }
 
+#divSkills li {
+  font-size: 14pt;
+  padding: .25rem;
+}
+
 /* CERTIFICATIONS Styles */
 
 #divCertifications img {
