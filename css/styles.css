@@ -201,11 +201,16 @@ div.modal-body h2 {
 
 div.row-title h2 {
   padding-left: 2.5em;
+  padding-top: 1.5em;
 }
 
 #divProjects .img-thumbnail {
-  width: 60%;
-  height: 60%;
+  width: 250px;
+  height: 250px;
+}
+
+.row-thumbnails div {
+  padding-top: 1.5em;
 }
 
 /* FOOTER Styles */
