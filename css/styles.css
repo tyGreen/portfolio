@@ -185,6 +185,11 @@ div.modal-body h2 {
   text-align: left;
 }
 
+ul.project-desc {
+  list-style: none;
+  text-align: left;
+}
+
 /* FancyBox Styles */
 
 #fbrow img {
